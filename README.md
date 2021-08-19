@@ -14,7 +14,7 @@ To install the project you need to clone the repository to you computer:
 1. [Open project using Intellij IDEA](https://www.jetbrains.com/help/idea/import-project-or-module-wizard.html). 
 2. Push Run button ![](image.png).
 3. Open any browser.
-4. Write ` localhost/8080/*input string* ` in your browser address bar, where *input string* is the string of that reversed code you want to get.
+4. Write ` localhost/8080/'input string' ` in your browser address bar, where 'input string' is the string of that reversed code you want to get.
 5. On the web page you will get the reversed code of every symbol of the string split by a comma.
 
 ## :v: Credits
